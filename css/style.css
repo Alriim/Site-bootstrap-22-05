@@ -1,0 +1,18 @@
+body{
+    background-color: dimgray;
+}
+.main {
+    margin-top: 4%;
+}
+#row1 {
+    margin-top: 5%;
+}
+#p1,#p2,#p3 {
+    background-color: lightcoral;
+    border: 2px solid black;
+    margin-right: 5px;
+    margin-bottom: 35px;
+}
+div section a {
+    color: purple;
+}
